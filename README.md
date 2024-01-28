@@ -2,7 +2,7 @@
 
 # Topsis
 
-for: *Project-1 (UCS633)* submitted by: *Akshita Gupta* Roll no: 102103741 Group: *3COE26*
+for: *Project-1 (UCS654)* submitted by: *Akshita Gupta* Roll no: 102103741 Group: *3COE26*
 
 Topsis-Akshita-102103741 is a Python library for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
 
