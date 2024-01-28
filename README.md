@@ -10,7 +10,7 @@ Topsis-Akshita-102103741 is a Python library for dealing with Multiple Criteria 
 
 Use the package manager pip to install topsis.
 
-```pip install Topsis-Ananya-102283009```
+```pip install Topsis-Akshita-102103741```
 
 ## Usage
 Enter csv filename followed by .csv extentsion, then enter the weights vector with vector values separated by commas, followed by the impacts vector with comma separated signs (+,-)
