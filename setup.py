@@ -10,13 +10,13 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="Topsis-Akshita-102103741",
-    version="1.0.0",
+    version="1.1.0",
     description="Performs TOPSIS",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/akshita6213/Topsis-Implementation.git",
     author="Akshita Gupta",
-    author_email="akshitapatiala06@gmail.com",
+    author_email="agupta8_be21@thapar.edu",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
